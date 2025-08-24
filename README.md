@@ -27,7 +27,7 @@ Uses clear prompts, colored text, and animated messages to make the experience e
 
 ```bash
 # Clone Master Gym Data Collector from the repository.
-git clone (github.link)
+git clone https://github.com/MasterJayGIt-68/gymdatacolllector/
 
 # Navigate to Master  directory.
 cd Master-Gym-Data-Collector
@@ -46,4 +46,5 @@ See the [LICENSE](LICENSE) file for full details.
 
 ## Contact
 
-Our Discord Server is here. [Click Here]()
+Our Discord Server is here. [Click Here](https://discord.gg/KStpGTA9Vu)
+
