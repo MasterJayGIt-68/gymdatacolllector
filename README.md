@@ -36,7 +36,7 @@ cd Master-Gym-Data-Collector
 ## Usage
 
 ```bash
-# Execute Master Gym Data Collector.exe
+# Just Execute Master Gym Data Collector.exe
 ```
 
 ## License
@@ -47,4 +47,5 @@ See the [LICENSE](LICENSE) file for full details.
 ## Contact
 
 Our Discord Server is here. [Click Here](https://discord.gg/KStpGTA9Vu)
+
 
