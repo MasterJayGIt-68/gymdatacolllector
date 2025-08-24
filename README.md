@@ -45,4 +45,5 @@ You are free to use, modify, and distribute this software for personal or commer
 See the [LICENSE](LICENSE) file for full details.
 
 ## Contact
+
 Our Discord Server is here. [Click Here]()
