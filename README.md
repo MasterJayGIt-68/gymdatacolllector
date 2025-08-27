@@ -1,5 +1,5 @@
 # Master Jay | Master Gym Data Collector
-Thank you for using Master Jay's Master Gym Data Calculator.  
+Thank you for using Master Jay's Master Gym Data Collector.  
 This tool helps you collect, manage, and analyze gym data efficiently.    
 Get started by reading the instructions below, and enjoy your data journey!
 
@@ -47,5 +47,6 @@ See the [LICENSE](LICENSE) file for full details.
 ## Contact
 
 Our Discord Server is here. [Click Here](https://discord.gg/KStpGTA9Vu)
+
 
 
